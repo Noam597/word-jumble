@@ -1,6 +1,6 @@
 <h1>Word Jumble Game.</h1>
 
-<h3>Type command "java main" into the terminal or command line.</h3>
+<h3>Type command "java Main" into the terminal or command line.</h3>
 
 <p>A simple word jumble game written in java.</p>
 
